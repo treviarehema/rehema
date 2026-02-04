@@ -1,3 +1,6 @@
+![Banner](banner.png)
+
+
 # Hi, I'm Rehema 👋
 
 I'm learning Python and building beginner-friendly projects.  
