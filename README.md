@@ -1,4 +1,3 @@
-![Banner](banner.png)
 
 
 # Hi, I'm Rehema 👋
@@ -7,9 +6,9 @@ I'm learning Python and building beginner-friendly projects.
 I enjoy making fun, interactive programs and sharing them on GitHub.
 
 ## 🚀 Projects
-- 🎨 [Clor Fun](https://github.com/rehema/clor-fun)  
-- 🎲 [Dice Roller](https://github.com/rehema/dice-roller)  
-- 🧮 [Calculator](https://github.com/rehema/calculator)  
+- 🎨 [Clor Fun](https://github.com/treviarehema/clor-fun)  
+- 🎲 [Dice Roller](https://github.com/treviarehema/dice-roller)  
+- 🧮 [Calculator](https://github.com/treviarehema/calculator)  
 
 ## 🌱 Currently Learning
 - Python basics
