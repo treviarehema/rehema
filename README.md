@@ -16,9 +16,9 @@ I enjoy making fun, interactive programs and sharing them on GitHub.
 - Building fun beginner projects
 
 ## 📊 GitHub Stats
-![Rehema's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehema&show_icons=true&theme=radical)
+![Rehema's GitHub stats](https://github-readme-stats.vercel.app/api?username=treviarehema&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rehema&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=treviarehema&layout=compact&theme=radical)
 
 ## ✨ Fun Fact
 I love making simple code that feels playful and helps beginners learn!
